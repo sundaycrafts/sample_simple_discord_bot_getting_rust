@@ -1,0 +1,12 @@
+[package]
+name = "discord_authorize"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ed25519-compact = "2.0.4"
+http = "0.2.9"
+anyhow = "1.0"
+hex = "0.4.3"

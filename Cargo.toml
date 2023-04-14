@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "discord",
+    "discord_authorize",
+    "discord_command",
+]
